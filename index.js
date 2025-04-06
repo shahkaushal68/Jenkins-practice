@@ -1,1 +1,1 @@
-console.log('The result is Updated Version1;
+console.log('The result is Updated Version1');
